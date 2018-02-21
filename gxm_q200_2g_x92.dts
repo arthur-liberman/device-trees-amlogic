@@ -1,7 +1,7 @@
-#include "gxm_q200_3g.dts"
+#include "gxm_q200_2g.dts"
 
 / {
-	le-dt-id = "gxm_q200_3g_x92";
+	le-dt-id = "gxm_q200_2g_x92";
 
 	fd628_dev {
 		compatible = "amlogic,fd628_dev";
